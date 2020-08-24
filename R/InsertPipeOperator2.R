@@ -4,6 +4,6 @@
 #'
 #' @export
 
-insertInAddin <- function() {
+InsertPipeOperator2 <- function() {
   rstudioapi::insertText(" %<>% ")
 }
