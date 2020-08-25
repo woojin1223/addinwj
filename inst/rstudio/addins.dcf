@@ -1,9 +1,9 @@
 Name: Insert %<>%
 Description: Inserts `%<>%` at the cursor position.
-Binding: InsertPipeOperator2
+Binding: insertPipeOperator
 Interactive: false
 
 Name: Insert %*%
 Description: Inserts `%*%` at the cursor position.
-Binding: InsertMatrixMultiplication
+Binding: insertMatrixMultiplication
 Interactive: false

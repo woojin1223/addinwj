@@ -1,9 +1,9 @@
-#' Insert \%\*\%.
+#' Insert Matrix multiplication.
 #'
 #' Call this function as an addin to insert \code{ \%\*\% } at the cursor position.
 #'
 #' @export
 
-InsertMatrixMultiplication <- function() {
+insertMatrixMultiplication <- function() {
   rstudioapi::insertText(" %*% ")
 }

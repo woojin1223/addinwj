@@ -1,12 +1,13 @@
 Package: addinwj
-Title: rstudio addin made by woo-jin
-Version: 0.0.0.9000
+Title: Rstudio Addin Made by Woo-Jin
+Version: 0.0.2
+Date: 2020-08-24
 Authors@R: 
     person(given = "WooJin",
            family = "Ahn",
            role = c("aut", "cre"),
            email = "ahnwj2004@gmail.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           comment = c(ORCID = "12554261"))
 Description: rstudio addin made by woo-jin
 License: `use_mit_license()`
 Encoding: UTF-8
